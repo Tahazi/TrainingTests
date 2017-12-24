@@ -1,5 +1,5 @@
 # TrainingTests
-Training tests for clean code in Java
+Training test for clean code in Java
 ## Description
  This test is about a building having several elevators with different states.
  For example, each elevator can be at a different level, and can be going up,
