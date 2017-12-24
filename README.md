@@ -1,5 +1,5 @@
 # TrainingTests
-Training test for clean code in Java
+Training test for clean code in `Java`
 ## Description
  This test is about a building having several elevators with different states.
  For example, each elevator can be at a different level, and can be going up,
@@ -22,6 +22,6 @@ Training test for clean code in Java
 ## Author 
 [SQLI](http://www.sqli.com/)
 ## Statements
-If you want to challenge yourself, you'll find the 'JUnit' file in the test package : </br> 
-'TrainingTests/elevators/src/test/java/com/sqli/test/elevators/' </br>
+If you want to challenge yourself, you'll find the `JUnit` file in the test package : </br> 
+`TrainingTests/elevators/src/test/java/com/sqli/test/elevators/` </br>
 Ps : It's all you will need to solve the test.
