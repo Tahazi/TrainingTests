@@ -23,3 +23,4 @@ Training tests for clean code in Java
 [SQLI](http://www.sqli.com/)
 ## Statements
 If you want to challenge yourself, you'll find the 'JUnit' file in the test package.
+Ps : It's all you will need to solve the test.
