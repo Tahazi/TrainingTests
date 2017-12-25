@@ -20,9 +20,9 @@ Training test for clean code in `Java`
   - An elevator is never in between floors.
 
 ## Author 
-Test Author : [SQLI](http://www.sqli.com/)
+Test Author : [SQLI](http://www.sqli.com/)</br>
 Code Author : [Taha Zirari](http://www.linkedin.com/in/taha-zirari)
 ## Statements
-If you want to challenge yourself, you'll find the `JUnit` file in the test package : </br> 
+If you want to challenge yourself, you'll find the `Test Class` in the test package : </br> 
 `TrainingTests/elevators/src/test/java/com/sqli/test/elevators/` </br>
 Ps : It's all you will need to solve the test.
